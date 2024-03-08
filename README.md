@@ -1,3 +1,36 @@
+# Tournament 
+
+As a user, I want a website that allows me to manage volleyball tournaments more effectively.
+
+<!-- Organizer -->
+
+as a user, I want to be able to select the format of the tournament I am hosting
+- blind draw, king of the beach, byop, coed blind draw (2 buckets)
+
+as a user, I want to be able to name my tournament
+- blind draw tournament, assigned partner
+
+as a user, I want to specify if it's a single or double elimination bracket
+
+as a user, I want a place to show/edit tourney info
+- date, time, rules
+
+as a user, I want to be able to enter the names of each tournament attendee
+as a user, I want to be able to create x number of pools
+as a user, I want to be able to enter how many nets there are and assign certain pools to certain nets
+as a user, I want to be able to share this link to players
+
+<!-- Player -->
+
+as a user, I want to be able to enter my score without making an account
+
+
+<!-- Relationships -->
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
